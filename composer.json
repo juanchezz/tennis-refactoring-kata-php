@@ -1,5 +1,5 @@
 {
-    "name": "emilybache/tennis-refactoring-kata-php",
+    "name": "540/tennis-refactoring-kata-php",
     "description": "Tennis Refactoring Kata",
     "license": "MIT",
     "require-dev": {
@@ -8,9 +8,7 @@
     "autoload": {
         "psr-4": {
             "Feature\\": "src",
-            "": [
-                "tests"
-            ]
+            "Tests\\": "tests"
         }
     },
     "require": {

@@ -1,5 +1,7 @@
 <?php
 
+namespace Tests;
+
 use Feature\TennisGame3;
 
 /**
